@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/msApp/static/js/main.d677bbe6.chunk.js",
+    "main.js.map": "/msApp/static/js/main.d677bbe6.chunk.js.map",
+    "runtime-main.js": "/msApp/static/js/runtime-main.19d24a4b.js",
+    "runtime-main.js.map": "/msApp/static/js/runtime-main.19d24a4b.js.map",
+    "static/js/2.a9f28d76.chunk.js": "/msApp/static/js/2.a9f28d76.chunk.js",
+    "static/js/2.a9f28d76.chunk.js.map": "/msApp/static/js/2.a9f28d76.chunk.js.map",
+    "index.html": "/msApp/index.html",
+    "precache-manifest.f6d91ea7e39845bcbf0206a674f321ce.js": "/msApp/precache-manifest.f6d91ea7e39845bcbf0206a674f321ce.js",
+    "service-worker.js": "/msApp/service-worker.js",
+    "static/js/2.a9f28d76.chunk.js.LICENSE.txt": "/msApp/static/js/2.a9f28d76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d24a4b.js",
+    "static/js/2.a9f28d76.chunk.js",
+    "static/js/main.d677bbe6.chunk.js"
+  ]
+}
